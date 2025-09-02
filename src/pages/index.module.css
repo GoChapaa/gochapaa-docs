@@ -8,11 +8,16 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+    min-height: 100vh;
   }
 }
 
@@ -22,18 +27,4 @@
   justify-content: center;
 }
 
-.greenSection {
-  background-color: #25c2a0;
-  min-height: 400px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 4rem 2rem;
-}
 
-@media screen and (max-width: 996px) {
-  .greenSection {
-    padding: 2rem 1rem;
-    min-height: 300px;
-  }
-}
