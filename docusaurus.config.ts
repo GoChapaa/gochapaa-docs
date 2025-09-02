@@ -87,7 +87,6 @@ const config: Config = {
       {name: 'twitter:image', content: 'img/gochapaa-social-card.svg'},
     ],
     navbar: {
-      title: 'GoChapaa',
       logo: {
         alt: 'GoChapaa Logo',
         src: 'img/gochapaalogo.svg',
