@@ -35,7 +35,7 @@ function HomepageHeader() {
               className="button button--secondary button--lg"
               onClick={openVideo}
               type="button">
-              GoChapaa Tutorial - 5min ⏱️
+              GoChapaa Tutorial - 30 Seconds ⏱️
             </button>
           </div>
         </div>
