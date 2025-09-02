@@ -1,0 +1,19 @@
+<!-- This would be a PNG file, but I'll create an SVG version for now -->
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- GoChapaa Favicon - 32x32 version -->
+  
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#1e3a8a"/>
+  
+  <!-- Stylized G in white -->
+  <path d="M8 24 C8 16, 12 8, 20 8 C24 8, 26 10, 26 12 C26 14, 24 16, 22 16 L22 18 C24 18, 26 16, 26 14 C26 10, 24 6, 20 6 C12 6, 6 12, 6 20 C6 28, 12 30, 18 30 C20 30, 22 29, 23 28" 
+        fill="white" stroke="none"/>
+  
+  <!-- Arrow extending from G in bright green -->
+  <path d="M23 28 L28 23 L26 21 L21 26 Z" fill="#10b981"/>
+  <path d="M28 23 L30 23 L30 25 L29 25 L29 24 L28 23 Z" fill="#10b981"/>
+  
+  <!-- The "o" in bright green -->
+  <circle cx="24" cy="20" r="3" fill="#10b981"/>
+  <circle cx="24" cy="20" r="1.5" fill="white"/>
+</svg>

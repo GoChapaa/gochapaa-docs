@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- GoChapaa Favicon - Based on the "Go" logo design -->
+  
+  <!-- White background -->
+  <rect width="32" height="32" fill="white"/>
+  
+  <!-- Stylized G in dark blue -->
+  <path d="M6 24 C6 16, 10 8, 18 8 C22 8, 24 10, 24 12 C24 14, 22 16, 20 16 L20 18 C22 18, 24 16, 24 14 C24 10, 22 6, 18 6 C10 6, 4 12, 4 20 C4 28, 10 30, 16 30 C18 30, 20 29, 21 28" 
+        fill="#1e3a8a" stroke="none"/>
+  
+  <!-- Arrow extending from G in bright green -->
+  <path d="M21 28 L26 23 L24 21 L19 26 Z" fill="#10b981"/>
+  <path d="M26 23 L28 23 L28 25 L27 25 L27 24 L26 23 Z" fill="#10b981"/>
+  
+  <!-- The "o" in bright green -->
+  <circle cx="24" cy="20" r="3" fill="#10b981"/>
+  <circle cx="24" cy="20" r="1.5" fill="white"/>
+</svg>
