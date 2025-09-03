@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://docs.gochapaa.io',
+  url: 'https://gochapaa.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For subdomain deployment, use root path
   baseUrl: '/',
@@ -80,7 +80,7 @@ const config: Config = {
       {property: 'og:title', content: 'GoChapaa Documentation'},
       {property: 'og:description', content: 'The Future of Finance for Africa Powered by AI and Blockchain'},
       {property: 'og:image', content: 'img/gochapaa-social-card.svg'},
-      {property: 'og:url', content: 'https://gochapaa.io/docs'},
+      {property: 'og:url', content: 'https://gochapaa.org'},
       {name: 'twitter:card', content: 'summary_large_image'},
       {name: 'twitter:title', content: 'GoChapaa Documentation'},
       {name: 'twitter:description', content: 'The Future of Finance for Africa Powered by AI and Blockchain'},
@@ -151,7 +151,7 @@ const config: Config = {
             },
             {
               label: 'Website',
-              href: 'https://gochapaa.io',
+              href: 'https://gochapaa.org',
             },
           ],
         },
