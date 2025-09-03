@@ -13,13 +13,6 @@ const RoadmapTimeline: React.FC = () => {
     {
       year: '2024',
       quarter: 'Q1',
-      title: 'Beta Testing',
-      description: 'Beta testing with select users and initial feedback collection',
-      status: 'completed'
-    },
-    {
-      year: '2025',
-      quarter: 'Q1',
       title: 'Official Launch',
       description: 'Official launch with full marketing campaign and user onboarding',
       status: 'completed'
