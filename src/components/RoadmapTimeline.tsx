@@ -32,17 +32,17 @@ const RoadmapTimeline: React.FC = () => {
       status: 'planned'
     },
     {
-      year: '2024',
-      quarter: 'Q4',
-      title: 'NFT Marketplace Pilot',
-      description: 'Launch of NFT marketplace pilot program',
-      status: 'planned'
-    },
-    {
       year: '2025',
       quarter: 'Q1',
       title: 'Mobile App Launch',
       description: 'iOS and Android mobile application launch',
+      status: 'completed'
+    },
+    {
+      year: '2025',
+      quarter: 'Q2',
+      title: 'BTC Lightning Network',
+      description: 'Integration with Bitcoin Lightning Network for micropayments',
       status: 'planned'
     },
     {
